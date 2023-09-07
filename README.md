@@ -6,3 +6,10 @@ Lakukan perbandingan kinerja dari fungsi iteratif dan fungsi rekursif untuk meng
 Anda harus menghasilkan:
 1. Source code fungsi cekPrimaIteratif() dan cekPrimaRekursif(). 
 2. Tabel catatan waktu dari kedua fungsi tersebut, dengan nilai n= 1000 sampai 5000
+
+output:
+Untuk rekursif:
+![alt text](https://github.com/UKDW-StrukturData/UG02-AnalisisAlgoritma/blob/main/Screenshot_2023-09-07-14-10-07-276_ru.iiec.pydroid3.png)
+
+Untuk iteratif:
+![alt text](https://github.com/UKDW-StrukturData/UG02-AnalisisAlgoritma/blob/main/Screenshot_2023-09-07-14-10-38-419_ru.iiec.pydroid3.png)
